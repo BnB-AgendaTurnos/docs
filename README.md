@@ -6,7 +6,7 @@ planificación, sprints, decisiones técnicas y diagramas.
 ## 📘 Documentación completa
 La documentación detallada se encuentra en la Wiki del repositorio:
 
-👉 [Ir a la Wiki del proyecto](../../wiki)
+[Ir a la Wiki del proyecto](../../wiki)
 
 ## 📂 Contenido principal
 - Planificación de Sprints
